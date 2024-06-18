@@ -1,6 +1,6 @@
 Hi, I'm Katherine 👋
 
-I'm a Dynamic Data Analyst with a unique background combining computer science and legal expertise. Proficient in Python and SQL, with experience in data cleaning, exploratory data analysis, and data visualization. My interests lie in machine learning and predictive analytics, and I'm always looking for opportunities to apply these skills to solve real-world problems.
+Data Analyst with a background combining computer science and legal expertise. Proficient in Python and SQL, with experience in data cleaning, exploratory data analysis, and data visualization. My interests lie in machine learning and predictive analytics, and I'm always looking for opportunities to apply these skills to solve real-world problems.
 
 📊 **Skills**: Data Cleaning, Data Visualization, Machine Learning, SQL, Python
 
